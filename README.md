@@ -7,9 +7,9 @@ In order to help provide Personal Protective Equipment (PPE) for the Coronavirus
  
 ## Getting Started
 
-Read the [full documentation](docs/Documentation.pdf) to get started. Be sure to reference this document when reviewing the bill of materials and build files listed below.
+Read the [full documentation](docs/PAPR_Background_and_Instructions.pdf) to get started. Be sure to reference this document when reviewing the bill of materials and build files listed below.
 
-➡️ [Full Documentation](docs/Documentation.pdf) 
+➡️ [Full Documentation](docs/PAPR_Background_and_Instructions.pdf) 
 
 ## Materials Required
 
