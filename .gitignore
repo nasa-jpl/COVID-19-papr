@@ -1,0 +1,4 @@
+# CAD
+*.x_t
+# macOS
+.DS_Store
